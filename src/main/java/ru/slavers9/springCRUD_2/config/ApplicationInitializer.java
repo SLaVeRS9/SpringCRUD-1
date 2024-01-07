@@ -1,4 +1,4 @@
-package ru.slavers9.springCRUD_1.config;
+package ru.slavers9.springCRUD_2.config;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.filter.HiddenHttpMethodFilter;
