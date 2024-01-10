@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="SpringCRUD-2:war exploded" />
+      <artifact name="SpringCRUD-1:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,20 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc7f9313-64fe-44e1-989c-a5f7eed7b9ac" name="Changes" comment="SpringCRUD-1 Done">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/config/ApplicationInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_2/config/ApplicationInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/config/SpringConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_2/config/SpringConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/controllers/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_2/controllers/UsersController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/mappers/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/models/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_2/models/UserModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_2/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_2/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/config/SpringConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/slavers9/springCRUD_1/config/SpringConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,55 +29,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
   <component name="ProjectId" id="2a3Pl7jbQey2iNixJ4aASdAjHMU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SLaVeRS9/Videos/Development/java/Alishev/06_Spring Framework/Полный крус/Repository/SpringCourse-master/SpringHibernateCRUDApp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;bafd3206c2b59e553434686dd7329944&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "I:/myProjects/java/springBootTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "bafd3206c2b59e553434686dd7329944",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ru.slavers9.springCRUD_2.service" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="I:\myProjects\java\SpringCRUD-1\src\main\webapp\WEB-INF\views\users" />
     </key>
@@ -98,21 +70,10 @@
     <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9.0.78" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.78" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="19" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="SpringCRUD-2:war exploded">
+        <artifact name="SpringCRUD-1:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="" />
           </settings>
@@ -120,7 +81,7 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="9a52c6f6-7cc7-4517-9ee5-6c08063b9ab6" />
-        <option name="HTTP_PORT" value="8081" />
+        <option name="HTTP_PORT" value="8084" />
         <option name="JNDI_PORT" value="1084" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
@@ -193,7 +154,7 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpringCRUD-2:war exploded" />
+          <artifact name="SpringCRUD-1:war exploded" />
         </option>
         <option name="Make" enabled="true" />
       </method>
@@ -219,9 +180,6 @@
       <workItem from="1703544445356" duration="612000" />
       <workItem from="1703717217035" duration="21630000" />
       <workItem from="1703799595923" duration="17705000" />
-      <workItem from="1704481424876" duration="1800000" />
-      <workItem from="1704483302412" duration="12249000" />
-      <workItem from="1704586199123" duration="2988000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1703857948472</created>
@@ -266,19 +224,6 @@
     <MESSAGE value="sync" />
     <MESSAGE value="SpringCRUD-1 Done" />
     <option name="LAST_COMMIT_MESSAGE" value="SpringCRUD-1 Done" />
-  </component>
-  <component name="XDebuggerManager">
-    <pin-to-top-manager>
-      <pinned-members>
-        <PinnedItemInfo parentTag="org.hibernate.query.internal.QueryImpl" memberName="queryString" />
-      </pinned-members>
-    </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
-        <watch expression="((SessionImpl)((QueryImpl)users).producer).interceptor" language="JAVA" custom="org.hibernate.query.internal.QueryImpl,org.hibernate.internal.SessionImpl" />
-        <watch expression="((QueryImpl)users).queryString" custom="org.hibernate.query.internal.QueryImpl" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
